@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 [![nanozuki's GitHub stats](https://github-readme-stats.vercel.app/api?username=nanozuki&theme=graywhite)](https://github.com/nanozuki/nanozuki)
-
 [![nanozuki's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nanozuki&layout=compact&theme=graywhite)](https://github.com/nanozuki?tab=repositories)
 
 - A [neovim](https://github.com/neovim/neovim) user lives in terminal
