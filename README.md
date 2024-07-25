@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 - A [neovim](https://github.com/neovim/neovim) user lives in terminal
 - Use Nix and Home-manager to manage my [dotfiles](https://github.com/nanozuki/crows)
-- btw, I use macOS and Arch Linux
+- btw, I use macOS and NixOS
